@@ -27,7 +27,7 @@ Overall, we are creating a functional and user-friendly application that brings 
 </a> <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
 <img src="image src="docs/cloudinary_logo.png" alt="cloudinary" width="100" height="30"/>
 </a>
-
+![Cloudinary Logo](docs/cloudinary_logo.png)
 
 # 🔧 Instruction
   
@@ -61,4 +61,5 @@ Developer: [Serhii Budnikov](https://github.com/serjbuda)
 Developer: [Ruslan Sirenko](https://github.com/Ruslan2512)   
 
 
+[product-demo]: docs/cloudinaryElement.gif?raw=true
 
