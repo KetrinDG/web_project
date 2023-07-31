@@ -43,8 +43,13 @@ The best website for posting, transforming, comenting and rating images in the w
 
 ## Our Team:
 Team Lead + Repository Owner: [Daniil Novykov](https://github.com/NovykovDaniil)
-Developer + Scrum Muster: [Kateryna Dehtiarova](https://github.com/KetrinDG)  
+
+Developer + Scrum Muster: [Kateryna Dehtiarova](https://github.com/KetrinDG) 
+
 Developer: [Victor Ivanov](https://github.com/VAlduinV)  
+
 Developer: [Serhii Budnikov](https://github.com/serjbuda)  
-Developer: [Ruslan](https://github.com/Ruslan2512)   
+
+Developer: [Ruslan Sirenko](https://github.com/Ruslan2512)   
+
 
