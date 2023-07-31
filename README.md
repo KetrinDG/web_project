@@ -61,5 +61,4 @@ Developer: [Serhii Budnikov](https://github.com/serjbuda)
 Developer: [Ruslan Sirenko](https://github.com/Ruslan2512)   
 
 
-[product-demo]: docs/cloudinaryElement.gif?raw=true
 
