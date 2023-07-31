@@ -45,7 +45,9 @@ Overall, we are creating a functional and user-friendly application that brings 
 * Create comments under posts.
 * Search posts with tags.
 * Rate posts.
-* To see other capabilites, check [documentation](link).
+* Chat with your friends in private messages.
+* Share your "stories" - collections of photos that tell stories or capture impressive moments.
+* Utilize the built-in GPT.
 
 ## 💪 Our Team:
 Team Lead + Repository Owner: [Daniil Novykov](https://github.com/NovykovDaniil)
