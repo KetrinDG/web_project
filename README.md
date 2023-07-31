@@ -19,7 +19,7 @@ The best website for posting, transforming, comenting and rating images in the w
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="50" height="30"/></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" width="50" height="30"/></a>
 </a> <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-<img src="image src="docs/cloudinary_logo.png" alt="cloudinary" width="90" height="30"/>
+<img src="image src="docs/cloudinary_logo.png" alt="cloudinary" width="300" height="30"/>
 </a>
 
 
