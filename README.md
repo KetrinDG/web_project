@@ -1,6 +1,12 @@
 # 📷 Photo Share
 
-The best website for posting, transforming, comenting and rating images in the world!
+This is a website that solves problems related to photo organization and sharing, as well as provides a platform for direct communication between users. The "Photo Share" app comes with an integrated messenger, allowing users to have private conversations with other photographers, discuss images, and provide feedback.
+
+Additionally, users can share their "stories" - collections of photos that tell stories or capture impressive moments. This enables them to create thematic albums and share information about their creative ideas and projects.
+
+Another interesting feature is the chat with the GPT system, which helps users ask questions and receive answers from a limited knowledge base related to photography and the creative process. This offers a quick way to access useful information and support on photographic aspects.
+
+Overall, we are creating a functional and user-friendly application that brings together a community of photographers, enabling interaction, learning, inspiration, and growth in the field of photography.
 
 ##  👇 Technologies
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
