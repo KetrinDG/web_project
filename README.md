@@ -23,15 +23,15 @@ The best website for posting, transforming, comenting and rating images in the w
 </a>
 
 
-# Instruction
+# 🎓 Instruction
   
-## How to use?
-### Authorization
+### 🧐 How to use?
+#### Authorization
 
 * Simple sign up page avialable at the api/auth/signup page.
 * After your succesfull sign up, you'll need to proceed to api/auth/login page, and log in to our system.
 
-### Features
+#### Features
 
 * Post your own images.
 * Transform your posted pictures.
