@@ -64,4 +64,4 @@ Developer: [Ruslan Sirenko](https://github.com/Ruslan2512)
 
 
 [product-demo]: docs/cloudinaryElement.gif?raw=true
-
+[product-demo]: docs/Logo-Chat-GPTElement.gif?raw=true
