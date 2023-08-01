@@ -27,8 +27,9 @@ Overall, we are creating a functional and user-friendly application that brings 
 <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
   <img src="docs/cloudinary_logo.png" alt="cloudinary" width="100" height="30"/>
 </a>
-
-
+<a href="https://chatgpt.com.ua/" target="_blank" rel="noreferrer">
+<img src="docs/Logo-Chat-GPT" alt="Chat_gpt" width="30" height="30"/>
+</a>
 
 # 🔧 Instruction
   
